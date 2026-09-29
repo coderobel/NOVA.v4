@@ -1,0 +1,10 @@
+#environments
+.env
+venv/
+
+#Python
+__pycache__/
+*.py[cod]
+
+#logs
+*.log
